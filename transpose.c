@@ -12,6 +12,7 @@ void main() {
             printf("Enter element: \n");
             scanf("%d",&A[i][j]);
         }
+    //hello world
     }
     for(i=0;i<m;i++) {
         for(j=0;j<n;j++)
@@ -29,4 +30,5 @@ void main() {
             printf("%d\t",B[i][j]);
         printf("\n");
     }
+
 }
